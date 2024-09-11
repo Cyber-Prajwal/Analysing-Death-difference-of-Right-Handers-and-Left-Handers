@@ -6,7 +6,7 @@ that left-handed individuals die earlier on average• Utilized Python libraries
 - Produced visualizations using Matplotlib, and applied Bayes' theorem to calculate conditional probabilities, successfully refuting the claim that left-handed individuals die earlier on average
 Skills: Exploratory Data Analysis
 
-# You can find detailed step by step process along with code in the above jupyter notebook wihtin the repository with "preview" mode
+# [You can find detailed step by step process along with code in the above jupyter notebook wihtin the repository with "preview" mode](https://github.com/Cyber-Prajwal/Analysing-Death-difference-of-Right-Handers-and-Left-Handers/blob/main/my_attempt.ipynb)
 
 ## Here is a step by step breakdown:
 - #### Step 1: Defining the Research Question
